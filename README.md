@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Backend Devlopment
-- 🌱 I’m learning Full Stack Web Devlopment.
-- 👯 I’m looking to collaborate on Open Source Projects.
+- 🔭 I’m currently working on Backend Development
+- 🌱 learning Full Stack Web Devlopment.
+- 👯 looking to collaborate on Open Source Projects.
 - 📫 How to reach me: parthjethwani13@gmail.com
 
 
