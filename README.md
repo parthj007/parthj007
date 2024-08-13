@@ -4,4 +4,4 @@
 
 Here are some ideas to get you started:-->
 
-👋 Hi, I'm Parth Jethwani from Ahmedabad, India. I'm a Software Engineer with a passion for developing scalable web applications. I have experience working with PHP, Python, JavaScript, and frameworks like Laravel and Vue.js. I enjoy collaborating on diverse projects and continuously expanding my technical skills. Let's build something amazing together!
+I'm a Software Engineer with a passion for developing scalable web applications. I have experience working with PHP, Python, JavaScript, and frameworks like Laravel and Vue.js. I enjoy collaborating on diverse projects and continuously expanding my technical skills. Let's build something amazing together!
