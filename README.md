@@ -4,9 +4,4 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Backend Development Magento 1.9(E-Commerce).
-- 🌱 learning Full Stack Web Devlopment.
-- 👯 looking to collaborate on Open Source Projects.
-- 📫 How to reach me: parthjethwani13@gmail.com
-
-
+👋 Hi, I'm Parth Jethwani from Ahmedabad, India. I'm a Software Engineer with a passion for developing scalable web applications. I have experience working with PHP, Python, JavaScript, and frameworks like Laravel and Vue.js. I enjoy collaborating on diverse projects and continuously expanding my technical skills. Let's build something amazing together!
