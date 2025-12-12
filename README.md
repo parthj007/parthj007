@@ -4,4 +4,6 @@
 
 Here are some ideas to get you started:-->
 
-I'm a Software Engineer with a passion for developing scalable web applications. I have experience working with PHP, Python, JavaScript, and frameworks like Laravel and Vue.js. I enjoy collaborating on diverse projects and continuously expanding my technical skills. Let's build something amazing together!
+I enjoy learning, experimenting, and doing work that feels exciting — not just routine.
+I’m all about good vibes, good ideas, and good people.
+Let’s build something awesome together (and have fun while doing it).
